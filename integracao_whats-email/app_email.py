@@ -1,5 +1,4 @@
 """
-
 Nome do Arquivo: app_email.py
 Versão: V1.0
 Python 3.11.4
@@ -24,7 +23,6 @@ O script foi desenvolvido para cumprir as seguintes etapas:
 Esse script demonstrativo foi criado como uma oportunidade de aprendizado para entender como a automação pode ser aplicada a tarefas 
 rotineiras, como o monitoramento de e-mails e ações correspondentes. É importante observar que este script é apenas um exercício 
 didático e pode ser expandido e ajustado para necessidades específicas.
-
 
 """
 
