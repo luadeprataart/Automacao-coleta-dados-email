@@ -1,0 +1,15 @@
+Olá, um novo candidato se inscreveu:
+
+Nome: xxxxxx
+
+RA: xxxxxx
+
+Celular: (ddd) 1234-5678
+
+Curso: xxxx
+
+Período: xxxxx
+
+Semestre: xxxxx
+
+Boa sorte!

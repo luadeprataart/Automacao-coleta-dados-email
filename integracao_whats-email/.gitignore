@@ -1,0 +1,4 @@
+/venv
+/geckodriver.log
+/PyWhatKit_DB.txt
+/config.py
