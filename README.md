@@ -12,6 +12,16 @@ Navegue até a pasta do projeto e execute o comando:
 ```shell
 pip install -r requirements.txt 
 ```
+* Criando o arquivo de config
+Crie um arquivo config.py na raiz do projeto e dentro dele cole a seguinte estrutura substituindo os xxx pelos seus dados.
+```shell
+email = 'xxx'
+pass_email = 'xxxx'
+Search_email = 'xxxxx'
+emergency_contact = '55xxxxxx'
+link = 'xxxxxx'
+grupo = 'xxxxxxx'
+```shell
 
 #### Rodando a aplicação:
 ```shell
